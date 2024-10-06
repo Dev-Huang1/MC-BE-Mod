@@ -1,0 +1,23 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:golden_bread"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:bread",
+      "count": 1
+    }
+  }
+}
