@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "金块合成面包",
+    "description": "金块合成面包 - 由黄同学（QQ 3061033679）开发，这是我的第一款mc模组",
+    "uuid": "f8c9d356-6d3a-4e57-9fcd-e58a49f5728d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3b85d34a-9b84-4b2e-a7f1-8d91e89d7a7c",
+      "version": [11, 45, 14]
+    }
+  ]
+}
