@@ -1,9 +1,14 @@
-# MC-BE-Mod
+# Golden Bread Mod
 
-Some Minecraft Bedrock Edition mods developed by me
+This module can use gold blocks to craft bread
 
-由我开发的一些Minecraft基岩版模组
+此模组可以用金块合成面包
 
-I don't know what to put in the main branch, so please look at other branches or releases
+![Screenshot_20241006_211250_com mojang minecraftpf](https://github.com/user-attachments/assets/bcb27f02-1abc-466b-8051-e5a030456e17)
 
-main分支不知道放什么，所以请看其他分支或release
+
+# Support Version:
+
+Bedrock Edition 1.16 and above
+
+基岩版 1.16 以上
